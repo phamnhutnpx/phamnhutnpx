@@ -1,4 +1,3 @@
-
 <h1 align="center">
     Hi , I'm Nhut
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -39,7 +38,7 @@
 
 <div class="footer">
     <!-- connect -->
-    <span >
+    <div >
         <span>
             <b>
                 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
@@ -64,11 +63,13 @@
                     src="https://img.shields.io/badge/instagram-%F58529.svg?style=plastic&logo=instagram&logoColor=white"
                     alt="Instagram" /></a>
         </span>
-    </span>
+    </div>
+    <br>
     <!-- visit -->
-    <span align="right" margin-right="0">
-        <span text-align="right"><b text-align="right">❤️ Visit github</b></span><br>
-        <img align="right" src="https://profile-counter.glitch.me/%7Bphamnhutnpx%7D/count.svg"></img>
-    </span>
+    <div>
+        <span><b>❤️ Visit github</b></span>
+        <br>
+        <img  src="https://profile-counter.glitch.me/%7Bphamnhutnpx%7D/count.svg"></img>
+    </div>
 
 </div>

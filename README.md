@@ -41,12 +41,12 @@
 <div class="footer">
     <!-- connect -->
     <span>
-        <summary>
+        <span>
             <b>
                 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
                 Connect with me 🤝
             </b>
-        </summary>
+        </span>
         <br>
         <span align="center">
             <a href="mailto:xuannhutzz@gmail.com"><img img
@@ -68,9 +68,8 @@
     </span>
     <!-- visit -->
     <span align="right" margin-right="0">
-        <summary><b>❤️ Visit github</b></summary><br>
+        <span><b>❤️ Visit github</b></span><br>
         <img align="right" src="https://profile-counter.glitch.me/%7Bphamnhutnpx%7D/count.svg"></img>
     </span>
 
 </div>
-

@@ -1,4 +1,3 @@
-<br><br>
 
 <h1 align="center">
     Hi , I'm Nhut
@@ -68,7 +67,7 @@
     </span>
     <!-- visit -->
     <span align="right" margin-right="0">
-        <span><b>❤️ Visit github</b></span><br>
+        <span text-align="right"><b text-align="right">❤️ Visit github</b></span><br>
         <img align="right" src="https://profile-counter.glitch.me/%7Bphamnhutnpx%7D/count.svg"></img>
     </span>
 

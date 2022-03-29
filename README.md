@@ -73,12 +73,4 @@
     </span>
 
 </div>
-<style>
-    .footer {
-        display: flex;
-        justify-content: space-between;
-        justify-items: center;
 
-    }
-
-</style>

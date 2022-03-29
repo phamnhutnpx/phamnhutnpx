@@ -29,7 +29,7 @@
 </div>
 <br>
 <br>
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+<span><b>⚡ Recent GitHub Activity</b></span>
 <br />
 <a href="https://github.com/phamnhutnpx">
     <img alt="NPX Activity Graph"
@@ -39,7 +39,7 @@
 
 <div class="footer">
     <!-- connect -->
-    <span>
+    <span >
         <span>
             <b>
                 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">

@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://github.com/phamnhutnpx">
         <img
-            src="https://readme-typing-svg.herokuapp.com?lines=My+fullname+is+Pham+Xuan+Nhut;I'm+a+Front-end+web+developer;In+the+future+fullstack+developer&center=true&width=500&height=50">
+            src="https://readme-typing-svg.herokuapp.com?lines=My+fullname+is+Pham+Xuan+Nhut;I'm+a+Front-end+web+developer&center=true&width=500&height=50">
     </a>
 </p>
 
@@ -32,7 +32,7 @@
 <br />
 <a href="https://github.com/phamnhutnpx">
     <img alt="NPX Activity Graph"
-        src="https://activity-graph.herokuapp.com/graph?username=phamnhutnpx&custom_title=NPX%20Contribution%20Graph&theme=react-dark" /></a>
+        src="https://github-readme-activity-graph.cyclic.app/graph?username=phamnhutnpx&custom_title=NPX%20Contribution%20Graph&theme=react-dark" /></a>
 <br />
 <br />
 
@@ -53,7 +53,7 @@
             <a href="https://github.com/phamnhutnpx"><img
                     src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"
                     alt="GitHub" /></a>
-            <a href="https://www.youtube.com/channel/UCE39U0pChmya1YLkeBLRROw"><img
+            <a href="https://www.youtube.com/@phamnhutofficial"><img
                     src="https://img.shields.io/badge/youtube-%23EA4335.svg?style=plastic&logo=youtube&logoColor=white"
                     alt="Youtube" /></a>
             <a href="https://www.facebook.com/xuannhutzz"><img

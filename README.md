@@ -28,13 +28,6 @@
 </div>
 <br>
 <br>
-<span><b>⚡ Recent GitHub Activity</b></span>
-<br />
-<a href="https://github.com/phamnhutnpx">
-    <img alt="NPX Activity Graph"
-        src="https://github-readme-activity-graph.cyclic.app/graph?username=phamnhutnpx&custom_title=NPX%20Contribution%20Graph&theme=react-dark" /></a>
-<br />
-<br />
 
 <div class="footer">
     <!-- connect -->
